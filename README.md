@@ -2,7 +2,7 @@
 
 A mobile-first web puzzle inspired by the core mechanics of *Block Blast!*, engineered with web technologies and zero external dependencies.
 
-🔗 **Live Demo:** 
+🔗 **Live Demo:** https://zen-blocks-mu.vercel.app/
 
 ---
 
