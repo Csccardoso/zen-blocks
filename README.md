@@ -1,4 +1,4 @@
-# Zen Blocks — Minimalist Block Puzzle Prototype
+# 🧩 Zen Blocks - Minimalist Block Puzzle Prototype
 
 A mobile-first web puzzle inspired by the core mechanics of *Block Blast!*, engineered with web technologies and zero external dependencies.
 
@@ -37,8 +37,6 @@ Built as part of an AI-assisted rapid game prototyping challenge:
 - **Deployment:** Vercel (Continuous Deployment via GitHub)
 
 ---
-
-## 🚀 Running Locally
 
 ## 🚀 Running Locally
 
